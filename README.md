@@ -1,0 +1,2 @@
+# Project: EDA How Does Daily Yoga Impact Screen Time Habits
+[The Kaggle dataset](https://www.kaggle.com/datasets/thedevastator/how-does-daily-yoga-impact-screen-time-habits) contains information on daily minutes of screen time habits, categorized by type of usage, as well as the effect of yoga on those habits. The main goal is understanding how daily yoga impact screen time habits analyzing descriptive and inferential statistics, performing Hypothesis Test (t-Test).
